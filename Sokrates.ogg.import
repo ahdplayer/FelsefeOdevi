@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Sokrates.ogg-d37ce19d015fd4a2bbec508470043489.oggstr"
+
+[deps]
+
+source_file="res://Sokrates.ogg"
+dest_files=[ "res://.import/Sokrates.ogg-d37ce19d015fd4a2bbec508470043489.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

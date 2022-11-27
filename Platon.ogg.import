@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Platon.ogg-4615114ca91ab6a814d7dfa551f24608.oggstr"
+
+[deps]
+
+source_file="res://Platon.ogg"
+dest_files=[ "res://.import/Platon.ogg-4615114ca91ab6a814d7dfa551f24608.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
